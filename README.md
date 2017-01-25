@@ -1,6 +1,10 @@
 # TrabajoRedes-1DAM
 Trabajo de Victor Rosa Arias
+
+
 Ejercicio Redes 1º DAM IES FRANCISCO AYALA
+
+
 1-Subredes.
 Para esta parte he creado 3 switch uno para cada subred.
 El primero tiene capacidad para 20 hosts. Con las siguientes ip:
